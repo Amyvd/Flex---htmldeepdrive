@@ -1,0 +1,6 @@
+.flex-container{
+    display: flex;
+    background-color: lightgrey;
+    height: 500px;
+    border: 1 px solid black;
+}
